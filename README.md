@@ -13,7 +13,10 @@
 </div>
 
 **<h2 align="left">Connect with me:</h2>** 
-<p align="left"><a href="https://www.linkedin.com/in/esdras-de-la-torre" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Yudikioros" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/esdras-de-la-torre" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> 
+  <a href="https://github.com/Yudikioros" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a>
+</p>
 
 <h3 align="left">🚀 I am a computer engineering graduate from "Centro Universitario de los Altos - Universidad de Guadalajara" with hunger for knowledge and enthusiasm for problem solving. I have experience with languages such as Java, JavaScript, PHP, Python and the ability to communicate ideas and work as a team. I am interested in pursuing a career in the software development industry, primarily in the backend area.</h3>
 
